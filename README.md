@@ -1,35 +1,4 @@
-<p align="center">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Debasishtripathy13&show_icons=true&theme=dark&hide_border=true&icon_color=f28a00" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Debasishtripathy13&theme=dark&hide_border=true" />
-  </a>
-</p>
-
-<br/>
-
-<p> 
-<div align="center">
-  <img src="https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-Node.JS-000?style=for-the-badge&logo=node.js&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-Typescript-000?style=for-the-badge&logo=typescript&color=151515&logoColor=000&labelColor=f28a00">
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&color=151515&logoColor=000&labelColor=f28a00">
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/-Dart-000?style=for-the-badge&logo=dart&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-Flutter-000?style=for-the-badge&logo=flutter&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-Go-000?style=for-the-badge&logo=go&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-SvelteKit-000?style=for-the-badge&logo=svelte&color=151515&logoColor=000&labelColor=f28a00">
-</div>
-</p>
-
-<br/>
-
-Hi ![Debasish Tripathy](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is DEBASISH TRIPATHY
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is DEBASISH TRIPATHY
 =========================================================================================================================================
 
 ML Developer
@@ -68,4 +37,4 @@ src="https://img.shields.io/github/followers/debasishtripathy13?logo=github&styl
 
 <a href="http://www.github.com/debasishtripathy13"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=debasishtripathy13&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/debasishtripathy13" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debasishtripathy13&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> modify this code
+<a href="https://github.com/debasishtripathy13" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debasishtripathy13&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
