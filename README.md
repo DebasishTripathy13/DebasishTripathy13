@@ -13,7 +13,7 @@ Hey there, tech adventurers! I've been on this exhilarating coding journey for a
 * ⚡  Nestled amidst the bustling streets of Bengaluru, I'm weaving digital wonders and crafting solutions that transcend the ordinary. Drop me a line at Debasishtripathy2021@gmail.com, and let's embark on a thrilling expedition to create something truly remarkable. When I'm not lost in the realms of code, you'll find me exploring the city's vibrant culture or unwinding with a captivating book and a steaming cup of chai
 
 <a href="https://www.github.com/debasishtripathy13" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/debasishtripathy13?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/debasishtripathy13?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -31,10 +31,10 @@ src="https://img.shields.io/github/followers/debasishtripathy13?logo=github&styl
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/debasishtripathy13"><img src="https://github-readme-stats.vercel.app/api?username=debasishtripathy13&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="debasishtripathy13's GitHub stats" /></a>
+<a href="http://www.github.com/debasishtripathy13"><img src="https://github-readme-stats.vercel.app/api?username=debasishtripathy13&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="debasishtripathy13's GitHub stats" /></a>
 
-<a href="http://www.github.com/debasishtripathy13"><img src="https://github-readme-streak-stats.herokuapp.com/?user=debasishtripathy13&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/debasishtripathy13"><img src="https://github-readme-streak-stats.herokuapp.com/?user=debasishtripathy13&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/debasishtripathy13"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=debasishtripathy13&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/debasishtripathy13"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=debasishtripathy13&bg_color=1c1917&color=ffffff&line=6366f1&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/debasishtripathy13" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debasishtripathy13&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/debasishtripathy13" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debasishtripathy13&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
