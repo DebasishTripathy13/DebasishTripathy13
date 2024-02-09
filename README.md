@@ -1,6 +1,6 @@
 <p align="center">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abhigyantrips&show_icons=true&theme=dark&hide_border=true&icon_color=f28a00" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigyantrips&theme=dark&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Debasishtripathy13&show_icons=true&theme=dark&hide_border=true&icon_color=f28a00" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Debasishtripathy13&theme=dark&hide_border=true" />
   </a>
 </p>
 
