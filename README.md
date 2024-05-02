@@ -38,6 +38,5 @@ src="https://img.shields.io/github/followers/debasishtripathy13?logo=github&styl
 <a href="https://github.com/debasishtripathy13" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debasishtripathy13&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ![Debsish](https://github-readme-activity-graph.vercel.app/graph?username=Debasishtripathy13&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)
-![Snake animation](https://github-readme-activity-graph.vercel.app/graph?username=Debasishtripathy13)
 
 
