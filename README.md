@@ -3,6 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ML Developer
 ------------
+![Visitor Count](https://profile-counter.glitch.me/Debasishtripathy13/count.svg)
+
 
 Hey there, tech adventurers! I've been on this exhilarating coding journey for a spellbinding five years. Starting with HTML and traversing through various programming realms, I've found my true calling in the enchanted realms of backend development and the mystical arts of machine learning
 
