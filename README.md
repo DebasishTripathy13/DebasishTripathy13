@@ -198,6 +198,14 @@ CI/CD:      ███████████████████░  90%
 
 <!-- Spotify Now Playing -->
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=f39c12&bar_color_cover=true" alt="Spotify Now Playing"/>
+<p align="center">
+  <a href="https://portfolio.debasishtripathy.tech/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=debasishtripathy13&show_icons=true&theme=dark&hide_border=true&icon_color=f28a00" />
+    <img width="49.5%" src="https://nirzak-streak-stats.vercel.app?user=debasishtripathy13&theme=dark&hide_border=true" />
+  </a>
+</p>
+
+<br/>
 
 </div>
 
