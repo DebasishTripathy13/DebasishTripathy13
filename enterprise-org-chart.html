@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enterprise IT Security, Risk & Compliance Organization Chart</title>
+    <link rel="stylesheet" href="org-chart-styles.css">
+</head>
+<body>
+    <div class="org-chart-container">
+        <header class="chart-header">
+            <h1>Enterprise IT Security, Risk & Compliance Organization Chart</h1>
+            <div class="legend">
+                <div class="legend-item">
+                    <div class="legend-color platform-security"></div>
+                    <span>IT Platform Security</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color security-operations"></div>
+                    <span>IT Security Operations</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color identity-access"></div>
+                    <span>Identity & Access</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color isc-security"></div>
+                    <span>ISC Security</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color risk-compliance"></div>
+                    <span>Risk & Compliance</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-line solid"></div>
+                    <span>Direct Reporting</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-line dashed"></div>
+                    <span>Functional Reporting</span>
+                </div>
+                <div class="legend-item">
+                    <span class="mt-badge">MT</span>
+                    <span>Management Team</span>
+                </div>
+            </div>
+        </header>
+
+        <div class="org-chart">
+            <!-- Head of Organization -->
+            <div class="org-level level-0">
+                <div class="employee-card head-card">
+                    <div class="employee-info">
+                        <div class="employee-name">Vikram Dua</div>
+                        <div class="employee-title">Head of Security, Risk & Compliance</div>
+                        <div class="team-count">(13 total)</div>
+                        <span class="mt-badge">MT</span>
+                        <div class="country-flag">🇮🇳</div>
+                    </div>
+                    <button class="collapse-btn" onclick="toggleLevel('level-1')">−</button>
+                </div>
+            </div>
+
+            <!-- Executive Admin -->
+            <div class="org-level level-1" id="level-1">
+                <div class="employee-card admin-card">
+                    <div class="employee-info">
+                        <div class="employee-name">Vicky Dickria</div>
+                        <div class="employee-title">Executive Admin</div>
+                        <div class="country-flag">🇺🇸</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Department Heads Level -->
+            <div class="org-level level-2" id="level-2">
+                <!-- IT Platform Security -->
+                <div class="department-group platform-security">
+                    <div class="employee-card dept-head">
+                        <div class="employee-info">
+                            <div class="employee-name">Platform Security Lead</div>
+                            <div class="employee-title">IT Platform Security Manager</div>
+                            <div class="team-count">(11 people)</div>
+                            <span class="mt-badge">MT</span>
+                            <div class="country-flag">🇺🇸</div>
+                        </div>
+                        <button class="collapse-btn" onclick="toggleDepartment('platform-security-team')">−</button>
+                    </div>
+                    <div class="department-team" id="platform-security-team">
+                        <div class="team-members">
+                            <div class="employee-card team-member">
+                                <div class="employee-info">
+                                    <div class="employee-name">Senior Security Engineer</div>
+                                    <div class="employee-title">Platform Security Engineer</div>
+                                    <div class="country-flag">🇺🇸</div>
+                                </div>
+                            </div>
+                            <div class="employee-card team-member">
+                                <div class="employee-info">
+                                    <div class="employee-name">Cloud Security Specialist</div>
+                                    <div class="employee-title">Platform Security Engineer</div>
+                                    <div class="country-flag">🇬🇧</div>
+                                </div>
+                            </div>
+                            <div class="employee-card team-member">
+                                <div class="employee-info">
+                                    <div class="employee-name">Infrastructure Security Analyst</div>
+                                    <div class="employee-title">Platform Security Analyst</div>
+                                    <div class="country-flag">🇨🇦</div>
+                                </div>
+                            </div>
+                            <div class="more-members">
+                                <span>+8 more team members</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- IT Security Operations -->
+                <div class="department-group security-operations">
+                    <div class="employee-card dept-head">
+                        <div class="employee-info">
+                            <div class="employee-name">SecOps Lead</div>
+                            <div class="employee-title">IT Security Operations Manager</div>
+                            <div class="team-count">(5 people)</div>
+                            <span class="mt-badge">MT</span>
+                            <div class="country-flag">🇺🇸</div>
+                        </div>
+                        <button class="collapse-btn" onclick="toggleDepartment('security-operations-team')">−</button>
+                    </div>
+                    <div class="department-team" id="security-operations-team">
+                        <div class="team-members">
+                            <div class="employee-card team-member">
+                                <div class="employee-info">
+                                    <div class="employee-name">SOC Analyst Senior</div>
+                                    <div class="employee-title">Security Operations Analyst</div>
+                                    <div class="country-flag">🇺🇸</div>
+                                </div>
+                            </div>
+                            <div class="employee-card team-member">
+                                <div class="employee-info">
+                                    <div class="employee-name">Incident Response Lead</div>
+                                    <div class="employee-title">Security Operations Engineer</div>
+                                    <div class="country-flag">🇮🇳</div>
+                                </div>
+                            </div>
+                            <div class="employee-card team-member">
+                                <div class="employee-info">
+                                    <div class="employee-name">Threat Hunter</div>
+                                    <div class="employee-title">Security Operations Specialist</div>
+                                    <div class="country-flag">🇦🇺</div>
+                                </div>
+                            </div>
+                            <div class="more-members">
+                                <span>+2 more team members</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Identity & Access -->
+                <div class="department-group identity-access">
+                    <div class="employee-card dept-head">
+                        <div class="employee-info">
+                            <div class="employee-name">IAM Lead</div>
+                            <div class="employee-title">Identity & Access Manager</div>
+                            <div class="team-count">(6 people)</div>
+                            <span class="mt-badge">MT</span>
+                            <div class="country-flag">🇺🇸</div>
+                        </div>
+                        <button class="collapse-btn" onclick="toggleDepartment('identity-access-team')">−</button>
+                    </div>
+                    <div class="department-team" id="identity-access-team">
+                        <div class="team-members">
+                            <div class="employee-card team-member">
+                                <div class="employee-info">
+                                    <div class="employee-name">IAM Architect</div>
+                                    <div class="employee-title">Identity Solutions Architect</div>
+                                    <div class="country-flag">🇺🇸</div>
+                                </div>
+                            </div>
+                            <div class="employee-card team-member">
+                                <div class="employee-info">
+                                    <div class="employee-name">Access Control Specialist</div>
+                                    <div class="employee-title">IAM Engineer</div>
+                                    <div class="country-flag">🇬🇧</div>
+                                </div>
+                            </div>
+                            <div class="employee-card team-member">
+                                <div class="employee-info">
+                                    <div class="employee-name">Privileged Access Analyst</div>
+                                    <div class="employee-title">PAM Specialist</div>
+                                    <div class="country-flag">🇩🇪</div>
+                                </div>
+                            </div>
+                            <div class="more-members">
+                                <span>+3 more team members</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- ISC Security -->
+                <div class="department-group isc-security">
+                    <div class="employee-card dept-head">
+                        <div class="employee-info">
+                            <div class="employee-name">ISC Security Lead</div>
+                            <div class="employee-title">ISC Security Manager</div>
+                            <div class="team-count">(12 people)</div>
+                            <span class="mt-badge">MT</span>
+                            <div class="country-flag">🇺🇸</div>
+                        </div>
+                        <button class="collapse-btn" onclick="toggleDepartment('isc-security-team')">−</button>
+                    </div>
+                    <div class="department-team" id="isc-security-team">
+                        <div class="team-members">
+                            <div class="employee-card team-member">
+                                <div class="employee-info">
+                                    <div class="employee-name">Application Security Lead</div>
+                                    <div class="employee-title">ISC Security Engineer</div>
+                                    <div class="country-flag">🇺🇸</div>
+                                </div>
+                            </div>
+                            <div class="employee-card team-member">
+                                <div class="employee-info">
+                                    <div class="employee-name">Data Security Specialist</div>
+                                    <div class="employee-title">ISC Security Analyst</div>
+                                    <div class="country-flag">🇮🇳</div>
+                                </div>
+                            </div>
+                            <div class="employee-card team-member">
+                                <div class="employee-info">
+                                    <div class="employee-name">Security Architecture Specialist</div>
+                                    <div class="employee-title">ISC Security Architect</div>
+                                    <div class="country-flag">🇸🇬</div>
+                                </div>
+                            </div>
+                            <div class="more-members">
+                                <span>+9 more team members</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Risk & Compliance -->
+                <div class="department-group risk-compliance">
+                    <div class="employee-card dept-head">
+                        <div class="employee-info">
+                            <div class="employee-name">Risk & Compliance Lead</div>
+                            <div class="employee-title">Risk & Compliance Manager</div>
+                            <div class="team-count">(20 people)</div>
+                            <span class="mt-badge">MT</span>
+                            <div class="country-flag">🇺🇸</div>
+                        </div>
+                        <button class="collapse-btn" onclick="toggleDepartment('risk-compliance-team')">−</button>
+                    </div>
+                    <div class="department-team" id="risk-compliance-team">
+                        <div class="team-members">
+                            <div class="employee-card team-member">
+                                <div class="employee-info">
+                                    <div class="employee-name">GRC Analyst Senior</div>
+                                    <div class="employee-title">Risk & Compliance Analyst</div>
+                                    <div class="country-flag">🇺🇸</div>
+                                </div>
+                            </div>
+                            <div class="employee-card team-member">
+                                <div class="employee-info">
+                                    <div class="employee-name">Compliance Officer</div>
+                                    <div class="employee-title">Compliance Specialist</div>
+                                    <div class="country-flag">🇬🇧</div>
+                                </div>
+                            </div>
+                            <div class="employee-card team-member">
+                                <div class="employee-info">
+                                    <div class="employee-name">Risk Assessment Lead</div>
+                                    <div class="employee-title">Risk Assessment Specialist</div>
+                                    <div class="country-flag">🇦🇺</div>
+                                </div>
+                            </div>
+                            <div class="employee-card team-member">
+                                <div class="employee-info">
+                                    <div class="employee-name">Audit Coordinator</div>
+                                    <div class="employee-title">Audit & Compliance Specialist</div>
+                                    <div class="country-flag">🇨🇦</div>
+                                </div>
+                            </div>
+                            <div class="more-members">
+                                <span>+16 more team members</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Connecting Lines -->
+            <svg class="org-lines" xmlns="http://www.w3.org/2000/svg">
+                <!-- Direct reporting lines from Head to Admin -->
+                <line class="reporting-line direct" x1="50%" y1="100" x2="50%" y2="150"></line>
+                
+                <!-- Direct reporting lines from Head to Department Heads -->
+                <line class="reporting-line direct" x1="50%" y1="100" x2="20%" y2="250"></line>
+                <line class="reporting-line direct" x1="50%" y1="100" x2="35%" y2="250"></line>
+                <line class="reporting-line direct" x1="50%" y1="100" x2="50%" y2="250"></line>
+                <line class="reporting-line direct" x1="50%" y1="100" x2="65%" y2="250"></line>
+                <line class="reporting-line direct" x1="50%" y1="100" x2="80%" y2="250"></line>
+                
+                <!-- Functional reporting lines (dashed) -->
+                <line class="reporting-line functional" x1="35%" y1="250" x2="50%" y2="250"></line>
+                <line class="reporting-line functional" x1="50%" y1="250" x2="65%" y2="250"></line>
+            </svg>
+        </div>
+    </div>
+
+    <script src="org-chart-script.js"></script>
+</body>
+</html>
